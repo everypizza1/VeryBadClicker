@@ -44,6 +44,7 @@
     {"id":{"name":"menu","path":"objects/menu/menu.yy",},},
     {"id":{"name":"particlesertting","path":"objects/particlesertting/particlesertting.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
+    {"id":{"name":"shopButton","path":"objects/shopButton/shopButton.yy",},},
     {"id":{"name":"shop","path":"sprites/shop/shop.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"closebutton","path":"objects/closebutton/closebutton.yy",},},
