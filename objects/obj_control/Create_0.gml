@@ -11,6 +11,12 @@ global.particleson = false;
 /// @DnDArgument : "var" "points"
 global.points = 0;
 
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 23A2C406
+/// @DnDArgument : "var" "boost"
+global.boost = 0;
+
 /// @DnDAction : YoYo Games.Files.If_File_Exists
 /// @DnDVersion : 1
 /// @DnDHash : 77B6B947
@@ -46,6 +52,17 @@ if(l77B6B947_0)
 	/// @DnDArgument : "key" ""particles""
 	/// @DnDArgument : "default" "false"
 	global.particleson = ini_read_real("settings", "particles", false);
+
+	/// @DnDAction : YoYo Games.Files.Ini_Read
+	/// @DnDVersion : 1
+	/// @DnDHash : 707C1FB8
+	/// @DnDParent : 77B6B947
+	/// @DnDArgument : "var" "global.boost"
+	/// @DnDArgument : "type" "1"
+	/// @DnDArgument : "section" ""boost""
+	/// @DnDArgument : "key" ""boost""
+	/// @DnDArgument : "default" "0"
+	global.boost = ini_read_real("boost", "boost", 0);
 
 	/// @DnDAction : YoYo Games.Files.Close_Ini
 	/// @DnDVersion : 1
@@ -98,6 +115,15 @@ else
 	/// @DnDArgument : "key" ""particles""
 	/// @DnDArgument : "value" "0"
 	ini_write_real("settings", "particles", 0);
+
+	/// @DnDAction : YoYo Games.Files.Ini_Write
+	/// @DnDVersion : 1
+	/// @DnDHash : 41FC2845
+	/// @DnDParent : 0716EA43
+	/// @DnDArgument : "section" ""power""
+	/// @DnDArgument : "key" ""boost""
+	/// @DnDArgument : "value" ""boost""
+	ini_write_string("power", "boost", "boost");
 
 	/// @DnDAction : YoYo Games.Files.Close_Ini
 	/// @DnDVersion : 1
