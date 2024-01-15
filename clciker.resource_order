@@ -19,6 +19,8 @@
   "ResourceOrderSettings": [
     {"name":"particle","order":4,"path":"sprites/particle/particle.yy",},
     {"name":"menubutton","order":2,"path":"sprites/menubutton/menubutton.yy",},
+    {"name":"obj_pertap","order":7,"path":"objects/obj_pertap/obj_pertap.yy",},
+    {"name":"pertap","order":6,"path":"sprites/pertap/pertap.yy",},
     {"name":"button_pressed","order":1,"path":"sprites/button_pressed/button_pressed.yy",},
     {"name":"obj_control","order":1,"path":"objects/obj_control/obj_control.yy",},
     {"name":"settingcontroller","order":5,"path":"objects/settingcontroller/settingcontroller.yy",},

@@ -36,8 +36,10 @@
   "resources": [
     {"id":{"name":"particle","path":"sprites/particle/particle.yy",},},
     {"id":{"name":"menubutton","path":"sprites/menubutton/menubutton.yy",},},
+    {"id":{"name":"obj_pertap","path":"objects/obj_pertap/obj_pertap.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"button_standard","path":"sprites/button_standard/button_standard.yy",},},
+    {"id":{"name":"pertap","path":"sprites/pertap/pertap.yy",},},
     {"id":{"name":"button_pressed","path":"sprites/button_pressed/button_pressed.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"settingcontroller","path":"objects/settingcontroller/settingcontroller.yy",},},
