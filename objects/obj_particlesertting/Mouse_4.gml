@@ -2,7 +2,7 @@
 /// @DnDVersion : 1
 /// @DnDHash : 09BB44C5
 /// @DnDArgument : "var" "particlesertting"
-if(particlesertting == 0)
+if(obj_particlesertting == 0)
 {
 	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDVersion : 1
