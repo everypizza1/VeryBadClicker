@@ -24,6 +24,7 @@
     {"name":"settingcontroller","order":5,"path":"objects/settingcontroller/settingcontroller.yy",},
     {"name":"menu","order":2,"path":"objects/menu/menu.yy",},
     {"name":"particlesertting","order":4,"path":"objects/particlesertting/particlesertting.yy",},
+    {"name":"shopscreen","order":2,"path":"rooms/shopscreen/shopscreen.yy",},
     {"name":"shopButton","order":6,"path":"objects/shopButton/shopButton.yy",},
     {"name":"shop","order":5,"path":"sprites/shop/shop.yy",},
     {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},

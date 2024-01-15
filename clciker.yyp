@@ -43,6 +43,7 @@
     {"id":{"name":"settingcontroller","path":"objects/settingcontroller/settingcontroller.yy",},},
     {"id":{"name":"menu","path":"objects/menu/menu.yy",},},
     {"id":{"name":"particlesertting","path":"objects/particlesertting/particlesertting.yy",},},
+    {"id":{"name":"shopscreen","path":"rooms/shopscreen/shopscreen.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"shopButton","path":"objects/shopButton/shopButton.yy",},},
     {"id":{"name":"shop","path":"sprites/shop/shop.yy",},},
@@ -54,6 +55,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"settings","path":"rooms/settings/settings.yy",},},
+    {"roomId":{"name":"shopscreen","path":"rooms/shopscreen/shopscreen.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
