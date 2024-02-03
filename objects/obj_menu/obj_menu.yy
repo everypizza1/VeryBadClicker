@@ -2,7 +2,7 @@
   "$GMObject": "",
   "%Name": "obj_menu",
   "eventList": [
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":27,"eventType":9,"isDnD":true,},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":27,"eventType":9,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

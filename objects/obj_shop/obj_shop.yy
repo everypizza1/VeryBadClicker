@@ -2,7 +2,7 @@
   "$GMObject": "",
   "%Name": "obj_shop",
   "eventList": [
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":77,"eventType":9,"isDnD":true,},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":77,"eventType":9,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
