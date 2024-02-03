@@ -1,7 +1,6 @@
 {
-  "resourceType": "GMLinuxOptions",
-  "resourceVersion": "1.0",
-  "name": "Linux",
+  "$GMLinuxOptions": "",
+  "%Name": "Linux",
   "option_linux_allow_fullscreen": false,
   "option_linux_disable_sandbox": false,
   "option_linux_display_cursor": true,
@@ -9,7 +8,7 @@
   "option_linux_display_splash": false,
   "option_linux_enable_steam": false,
   "option_linux_homepage": "",
-  "option_linux_icon": "icons/64.png",
+  "option_linux_icon": "${options_dir}/linux/icons/64.png",
   "option_linux_interpolate_pixels": true,
   "option_linux_long_desc": "",
   "option_linux_maintainer_email": "",
